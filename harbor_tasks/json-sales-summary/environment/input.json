@@ -1,0 +1,7 @@
+[
+  { "region": "West", "item": "Keyboard", "quantity": 3, "unit_price": 45.5 },
+  { "region": "North", "item": "Mouse", "quantity": 10, "unit_price": 12.0 },
+  { "region": "West", "item": "Monitor", "quantity": 1, "unit_price": 199.99 },
+  { "region": "South", "item": "USB Cable", "quantity": 6, "unit_price": 5.25 },
+  { "region": "North", "item": "Headset", "quantity": 2, "unit_price": 58.75 }
+]
